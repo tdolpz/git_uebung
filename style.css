@@ -1,3 +1,4 @@
+
 .Hello {
   background-color: aqua;
   letter-spacing: 15px;
@@ -6,4 +7,8 @@
 .button {
   background-color: blue;
   color: azure;
+
+*footer {
+  color: blue;
+
 }
